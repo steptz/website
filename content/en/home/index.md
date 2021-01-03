@@ -1,6 +1,6 @@
 ---
-title: "Hi, I'm Introduction"
+title: "Hi, I'm Zachary"
 headless: true
 ---
 
-I'm a theme for Hugo
+I'm a data science major
