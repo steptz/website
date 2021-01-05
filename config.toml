@@ -99,5 +99,5 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_cache$", "\\.knit\\.md$", "\\.utf8\
         weight           = 0
         title            = "Zachary Stept"
         [languages.en.params]
-            description  = "Website Description"   # Max 160 characters show in search results
-            footerText   = "This website is made with the Introduction theme from R Blogdown."                      # Text to override default footer text (markdown allowed)
+            description  = "This is a networking website for Zachary Stept, who is a data science major. The website contains info on me, the projects I have done, my resume, and how to contact me."   # Max 160 characters show in search results
+            footerText   = "Copyright 2021 Zachary Stept"                      # Text to override default footer text (markdown allowed)
