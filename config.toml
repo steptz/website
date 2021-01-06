@@ -2,7 +2,7 @@ baseURL                          = "https://www.zacharystept.net/"   # Your doma
 theme = "hugo-theme-introduction"
 DefaultContentLanguage           = "en"                    # Default language for multilingual sites
 # disqusshortname                 = ""                     # https://gohugo.io/content-management/comments
-# googleAnalytics                 = "UA-96191511-1"        # https://gohugo.io/templates/internal/#google-analytics
+# googleAnalytics                 = "G-VMKYRQBEVZ"        # https://gohugo.io/templates/internal/#google-analytics
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_cache$", "\\.knit\\.md$", "\\.utf8\\.md$"]
 
 [params]
