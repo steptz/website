@@ -30,9 +30,9 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_cache$", "\\.knit\\.md$", "\\.utf8\
     [params.projects]
         useTwoColumns            = false                   # Use a layout with two columns instead of three
     [[params.contact]]
-        linkedin-in              = true
-        github                   = false
-        paper-plane              = true
+        showLinkedin-in          = true
+        showGithub               = false
+        showPaper-plane          = true
 
     # Share buttons on blog post pages
     [params.share]
