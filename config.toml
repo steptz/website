@@ -2,7 +2,7 @@ baseURL                          = "https://www.zacharystept.net/"   # Your doma
 theme = "hugo-theme-introduction"
 DefaultContentLanguage           = "en"                    # Default language for multilingual sites
 # disqusshortname                 = ""                     # https://gohugo.io/content-management/comments
-# googleAnalytics                 = ""                     # https://gohugo.io/templates/internal/#google-analytics
+# googleAnalytics                 = "UA-96191511-1"        # https://gohugo.io/templates/internal/#google-analytics
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_cache$", "\\.knit\\.md$", "\\.utf8\\.md$"]
 
 [params]
@@ -24,15 +24,11 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_cache$", "\\.knit\\.md$", "\\.utf8\
         showAllPosts             = false                   # Set true to list all posts on home page, or set false to link to separate blog list page
         allPostsArchiveFormat    = true                    # show all posts in an archive format
         numberOfProjectsToShow   = 3                       # Maximum number of projects to show on home page. Unset or comment out to show all projects
-        localTime                = false                    # Show your current local time in contact section
+        localTime                = false                   # Show your current local time in contact section
         timeZone                 = "America/New_York"      # Your timezone as in the TZ* column of this list: https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
         timeFormat               = "en-US"                 # Language specific format to use
     [params.projects]
         useTwoColumns            = false                   # Use a layout with two columns instead of three
-    [[params.contact]]
-        showLinkedin-in          = true
-        showGithub               = false
-        showPaper-plane          = true
 
     # Share buttons on blog post pages
     [params.share]
