@@ -1,10 +1,10 @@
 ---
 resources:
 - params:
-  weight: 1
-  src: website.png
+  weight: 3
+  src: website3.png
 title: ZacharyStept.net
-weight: 1
+weight: 3
 ---
 
 This website uses R, Blogdown, and a Hugo theme named Introduction in order to create the design and content.
