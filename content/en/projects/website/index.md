@@ -1,7 +1,7 @@
 ---
 resources:
 - params:
-  align = "center"
+  weight: 1
   src: website.png
 title: ZacharyStept.net
 weight: 1
