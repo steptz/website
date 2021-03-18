@@ -6,7 +6,7 @@ weight: 8
 
 Hi! My name is Zachary Stept. I am a Computational and Data Science major in his fourth term (sophomore year) at George Mason University. 
 
-### Work Environments
+### Programming Languages and IDEs
 
 * Java and Apache NetBeans: This was the first environment that I used to learn coding in high school. I have not used Java in a few years. Most knowledge is on geometric formulas and basic object-oriented programming.
 * Matlab: Used this environment for a little bit. Most knowledge is in creating functions and analyzing matrices.
