@@ -9,6 +9,7 @@ Hi! My name is Zachary Stept. I am a Computational and Data Science major in his
 ### Programming Languages and IDEs
 
 * Java and Apache NetBeans: This was the first environment that I used to learn coding in high school. I have not used Java in a few years. Most knowledge is on geometric formulas and basic object-oriented programming.
+* LaTeX and Overleaf: I have used this for writing papers that includes tables, images, bibliographies, and more.
 * Matlab: Used this environment for a little bit. Most knowledge is in creating functions and analyzing matrices.
 * NetLogo: Recently started using NetLogo, but not enough knowledge to create a new model/simulation.
 * Python and Jupyter Notebook: Recently started using python. Most knowledge is in network analysis, creating basic functions, and SQL queries.
