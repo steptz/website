@@ -3,7 +3,7 @@ resources:
 - params:
   weight: 1
   src: website.png
-title: ZacharyStept.net
+title: www.ZacharyStept.net
 weight: 1
 ---
 
