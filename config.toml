@@ -60,6 +60,11 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_cache$", "\\.knit\\.md$", "\\.utf8\
     url     = "/about/"
     weight  = 1
 [[menu.main]]
+    name    = "Pragramming Languages and IDEs"
+    url     = "/tags/pragramming languages and ides/"
+    parent  = "About"
+    weight  = 1
+[[menu.main]]
     name    = "Projects"
     url     = "/projects/"
     weight  = 2
