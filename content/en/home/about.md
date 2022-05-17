@@ -4,7 +4,9 @@ image: "profile.jpg"
 weight: 8
 ---
 
-Hi! My name is Zachary Stept. I am a Computational and Data Science major in my third year at George Mason University. I am also a CDS STAR (Teacher's Assistant) for CDS 101 which is a class that introduces data analysis through the use of R. I have been introducing students to the program as a CDS STAR for four semesters.
+Hi! My name is Zachary Stept. I am a Computational and Data Science major in my fourth year at George Mason University. I am also a CDS STAR (Teacher's Assistant) for CDS 101 which is a class that introduces data analysis through the use of R. I have been introducing students to the program as a CDS STAR for four semesters.
+
+I am currently seeking a summer internship or inofrmation for full-time employment once I graduate from George Mason University in May 2023. My professional contact information can be found below in the Contact section.
 
 ### Programming Languages and IDEs
 
@@ -15,4 +17,4 @@ Hi! My name is Zachary Stept. I am a Computational and Data Science major in my 
 * Python and Jupyter Notebook: Recently started using python. Most knowledge is in network analysis, creating basic functions, and SQL queries.
 * R and RStudio: This is the environment that I have the most knowledge in. I am a teacher’s assistant that teaches this language to students. Most knowledge is in data analysis, creating visualizations, and basic website construction.
 * SQLite and DB Browser for SQLite: Most knowledge is in queries for different databases.
-* Fortran and SimplyFortran: Used this environment for a little bit. Most knowledge is in basic scientific computing.
+* Fortran and SimplyFortran: Most knowledge is in all things scientific computing.
