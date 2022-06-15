@@ -1,8 +1,8 @@
 baseURL                          = "https://www.zacharystept.net/"   # Your domain name. Must end with "/"
 theme = "hugo-theme-introduction"
 DefaultContentLanguage           = "en"                    # Default language for multilingual sites
-# disqusshortname                 = ""                     # https://gohugo.io/content-management/comments
-# googleAnalytics                 = ""                     # https://gohugo.io/templates/internal/#google-analytics
+# disqusshortname                = ""                     # https://gohugo.io/content-management/comments
+googleAnalytics                  = "G-4GXT9MR1LX"                     # https://gohugo.io/templates/internal/#google-analytics
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_cache$", "\\.knit\\.md$", "\\.utf8\\.md$"]
 
 [params]
