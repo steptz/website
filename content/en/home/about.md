@@ -4,7 +4,7 @@ image: "profile.jpg"
 weight: 8
 ---
 
-Hi! My name is Zachary Stept. I am a Computational and Data Science major in my fourth year at George Mason University. I am also a CDS STAR (Teacher's Assistant) for CDS 101 which is a class that introduces data analysis through the use of R. I have been introducing students to the program as a CDS STAR for four semesters.
+Hi! My name is Zachary Stept. I am a Computational and Data Science major in my fourth year at George Mason University. I am also a CDS STAR (Teacher's Assistant) for CDS 101 which introduces students to data analysis and data science through the use of R, as well as CDS 201 which introduces students to computational social science through the use of NetLogo. I have been assisting students with CDS 101 for five semesters and have been assisting students with CDS 201 for one semester.
 
 I am currently seeking a summer internship or inofrmation for full-time employment once I graduate from George Mason University in May 2023. My professional contact information can be found below in the Contact section.
 
