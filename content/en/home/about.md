@@ -8,8 +8,6 @@ Hi! My name is Zachary Stept. I am a Computational and Data Science major in my 
 
 I am currently seeking information for full-time employment once I graduate from George Mason University in May 2023. My professional contact information can be found below in the Contact section and my resume can be downloaded using the Download button below.
 
-<object data="~/Desktop/website/content/en/home/resume.pdf" type="application/pdf">
-
 ### Programming Languages and IDEs
 
 * Java and Apache NetBeans: This was the first environment that I used to learn coding in high school. I have not used Java in a few years. Most knowledge is in geometric formulas and basic object-oriented programming.
