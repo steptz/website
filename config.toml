@@ -57,7 +57,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_cache$", "\\.knit\\.md$", "\\.utf8\
 # If you don't want to use the default menu, you can define one by yourself
  [[menu.main]]
      name       = "About"
-     url        = "/about"
+     url        = "home/about"
      weight     = 1
  [[menu.main]]
      name       = "Projects"
