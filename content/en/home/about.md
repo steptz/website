@@ -1,4 +1,5 @@
 ---
+title: "About Me"
 image: "profile.jpg"
 weight: 8
 ---
