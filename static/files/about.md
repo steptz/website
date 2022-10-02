@@ -1,6 +1,6 @@
 ---
-title: "Resume"
-file: "resume.pdf"
+title: "About Me"
+image: "profile.jpg"
 weight: 8
 ---
 
