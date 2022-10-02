@@ -1,4 +1,6 @@
 ---
+title: "About Me"
+headless: true
 image: "profile.jpg"
 weight: 8
 ---
