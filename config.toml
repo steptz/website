@@ -55,32 +55,27 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_cache$", "\\.knit\\.md$", "\\.utf8\
 
 
 # If you don't want to use the default menu, you can define one by yourself
-#[menu] 
-# [[menu.main]]
-#     name       = "Home"
-#     identifier = "home"
-#     url        = "/"
-#     weight     = 1
-# [[menu.main]]
-#     name       = "About"
-#     identifier = "about"
-#     url        = "/about/"
-#     weight     = 2
-# [[menu.main]]
-#     name       = "Projects"
-#     identifier = "project"
-#     url        = "/projects/"
-#     weight     = 3
-# [[menu.main]]
-#     name       = "Contact"
-#     identifier = "contact"
-#     url        = "/contact/"
-#     weight     = 4
-#  [[menu.main]]
-#     name       = "Resume"
-#     identifier = "resume"
-#     url        = "/files/resume.pdf"
-#     weight     = 5
+[menu] 
+ [[menu.main]]
+     name       = "Home"
+     url        = "/"
+     weight     = 1
+ [[menu.main]]
+     name       = "About Me"
+     url        = "/#about"
+     weight     = 2
+ [[menu.main]]
+     name       = "Projects"
+     url        = "/#projects"
+     weight     = 3
+ [[menu.main]]
+     name       = "Contact"
+     url        = "/#contact"
+     weight     = 4
+  [[menu.main]]
+     name       = "Resume"
+     url        = "/files/resume.pdf"
+     weight     = 5
 
 # We only use tag as a taxonomies
 # You can add more by yourself
