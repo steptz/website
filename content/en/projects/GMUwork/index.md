@@ -3,7 +3,8 @@ resources:
 - params:
   weight: 1
   src: gmu_logo.png
-title: GMUworks: A Selection of Assignments from GMU Courses
+title: GMUworks 
+subtitle: A Selection of Assignments from GMU Courses
 weight: 1
 ---
 
