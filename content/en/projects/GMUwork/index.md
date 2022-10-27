@@ -4,7 +4,7 @@ resources:
   weight: 1
   src: gmu_logo.png
 title: GMUworks 
-subtitle: A Selection of Assignments from GMU Courses
+title: A Selection of Assignments from GMU Courses
 weight: 1
 ---
 
