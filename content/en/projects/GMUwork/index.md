@@ -3,7 +3,7 @@ resources:
 - params:
   weight: 1
   src: gmu_logo.png
-title: Selection of Work as a Student at GMU
+title: GMUworks: A Selection of Assignments from GMU Courses
 weight: 1
 ---
 
