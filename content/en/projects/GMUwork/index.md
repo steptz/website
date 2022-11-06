@@ -8,3 +8,5 @@ weight: 1
 ---
 
 The content of this collection is from my time as a student at GMU. Only the best work has been selected.
+
+The following link will guide you to the project: https://gitlab.com/steptz/gmuworks
