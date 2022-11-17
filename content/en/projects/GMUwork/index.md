@@ -7,6 +7,6 @@ title: GMUworks - A Selection of Assignments from GMU Courses
 weight: 1
 ---
 
-The content of this collection is from my time as a student at GMU. Only the best work has been selected.
+The content of this collection contains work from my time as a student at GMU. For each relevant course, one assignment has been uploaded to the repository in an effort to show my skills.
 
 The following link will guide you to the project: https://gitlab.com/steptz/gmuworks
