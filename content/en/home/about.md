@@ -4,9 +4,9 @@ image: "profile.jpg"
 weight: 8
 ---
 
-Hi! My name is Zachary Stept. I am a Computational and Data Science major in my last semester at George Mason University in Fairfax, Virginia. I am also a CDS STAR (Teaching Assistant) for CDS 101 which introduces students to data analysis and data science through the use of R, as well as CDS 201 which introduces students to computational social science through the use of NetLogo. I have been assisting students with CDS 101 for six semesters and have been assisting students with CDS 201 for one semester.
+Hi! My name is Zachary Stept. I am a recent graduate of George Mason University in Farifax, Virgina where I earned a Bachelors of Science in Computational and Data Science. I was a CDS STAR (Teaching Assistant) for CDS 101 which introduces students to data analysis and data science through the use of R for six semeseters, as well as CDS 201 which introduces students to computational social science through the use of NetLogo for one semester.
 
-I am currently seeking information for full-time employment once I graduate from George Mason University in May 2023. My professional contact information can be found below in the Contact section and my resume can be found by using the Resume tab above.
+I am currently seeking information for full-time employment or more connections. My professional contact information can be found below in the Contact section and my resume can be found by using the Resume tab above.
 
 ### Programming Languages
 
@@ -15,7 +15,7 @@ I am currently seeking information for full-time employment once I graduate from
 * Matlab: Used this language for a little bit. Most knowledge is in creating functions and analyzing matrices.
 * NetLogo: Basic knowledge in building models/simulations.
 * Python: Most knowledge is in network analysis, creating basic functions, graphs, and SQL queries. I also have knowledge in Hadoop MapReduce and Spark, both through the use of AWS.
-* R: This is the language that I have the most knowledge in. I am a teaching assistant that teaches this language to students. Most knowledge is in data analysis, creating visualizations, and basic website construction.
+* R: This is the language that I have the most knowledge in. I was a teaching assistant that taught this language to students. Most knowledge is in data analysis, creating visualizations, and basic website construction.
 * SQLite: Most knowledge is in queries for different databases.
 * Fortran: Most knowledge is in all things scientific computing.
-* SAS: Currently learning this programming language.
+* SAS: Most knowledge is in data analysis and visualizations.
