@@ -3,4 +3,4 @@ title: "Hi, I'm Zachary"
 headless: true
 ---
 
-I'm a data science/analyst major
+I'm a data analyst/scientist
